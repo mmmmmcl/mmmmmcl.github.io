@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 马陈蕾的网页作业</title>
+    
+    
+    
+    <link>/post/</link>
+    <description>Recent content in Posts on 马陈蕾的网页作业</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HELLO FRIEND</title>
+      <link>/post/hello/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description>
+        
+          &lt;img src=&#34;/img/like.jpg&#34;/&gt;
+          
+        
+        
+        
+          这是一张我很喜欢的图片，用GIMP简单调过色。可以点点下面的更多内容看一下嘛。拜托了！
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
