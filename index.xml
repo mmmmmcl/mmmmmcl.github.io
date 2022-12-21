@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>马陈蕾的网页作业</title>
+    <title>mcl的网页作业</title>
     
     
     
     <link>/</link>
-    <description>Recent content on 马陈蕾的网页作业</description>
+    <description>Recent content on mcl的网页作业</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Dec 2022 00:00:00 +0000</lastBuildDate>
@@ -49,14 +49,14 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
         
         
         
-          这是一张我很喜欢的图片，用GIMP添加了部分水印并进行了调色。可以点点下面的更多内容看一下嘛。拜托了！
+          这是一张我很喜欢的图片，用GIMP添加了部分水印并进行了调色。相关介绍在下一页——点击更多内容查看更多
           
         
         </description>
     </item>
     
     <item>
-      <title>Showcase</title>
+      <title>具体设定</title>
       <link>/showcase/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -69,8 +69,10 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
         
         
         
-          一些废话 # 我也不知道我修改的哪一行代码出现了问题，总之这个网页现在现实的发文日期一团糟。但是我认为我将这些跳转条目辨别出来并且修改为中文的能力还算ok，老师可以多给一丢丢分数吗！！！以及这一段虽然我没有看懂上面的介绍但是我觉得很牛所以保留下来了，自己另起了一小部分，原网页中我这一段是不存在的。
-Header 2 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare.
+          一些废话 # 我也不知道我修改的哪一行代码出现了问题，总之这个网页现在显示的发文日期一团糟。但是我真的很需要这门课的绩点，所以老师可以多给一丢丢分数吗！！！接下来是我的oc展示。
+伊犁鼠兔 # 这张图片就是我展示在首页的人物的原本设定图。她是伊犁鼠兔拟人，在我设定的故事中，是一个从乡下来到大城市生活的，有属于自己的自尊的小姑娘。
+秘密花园 # 她在我设定的故事中是一个寿命很长并且拥有一座自己的花园的书店老板。我的故事一般在她的书店里发生。
+面包 # 他是我的象征。一般只会在我精神压力比较大时才会在我的故事里出现。是一个疲于各类社交和工作的可怜小男孩。脖子上的蛇会时刻提醒他还有很多工作没有完成，还不能休息。
           
         
         </description>
