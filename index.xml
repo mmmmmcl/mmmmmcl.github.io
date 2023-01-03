@@ -15,28 +15,6 @@
     
     
     <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          Hi there # My name is Radek and I&amp;rsquo;m the author of this theme. I made it to help you present your ideas easier.
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
-          
-        
-        </description>
-    </item>
-    
-    <item>
       <title>HELLO FRIEND</title>
       <link>/post/hello/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
@@ -49,14 +27,14 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
         
         
         
-          这是一张我很喜欢的图片，用GIMP添加了部分水印并进行了调色。相关介绍在下一页——点击更多内容查看更多
+          不知道原因但是网页时间显示出现了一些问题。这是一张我很喜欢的图片，用GIMP添加了部分图层水印并进行了调色。相关介绍在下一页——点击更多内容查看更多
           
         
         </description>
     </item>
     
     <item>
-      <title>具体设定</title>
+      <title>一些图片分享</title>
       <link>/showcase/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
@@ -69,10 +47,30 @@ This theme is pretty basic and covers all of the essentials. All you have to do 
         
         
         
-          一些废话 # 我也不知道我修改的哪一行代码出现了问题，总之这个网页现在显示的发文日期一团糟。但是我真的很需要这门课的绩点，所以老师可以多给一丢丢分数吗！！！接下来是我的oc展示。
+          声明 # 本页所使用所有图片均经过GIMP处理添加图层水印。
 伊犁鼠兔 # 这张图片就是我展示在首页的人物的原本设定图。她是伊犁鼠兔拟人，在我设定的故事中，是一个从乡下来到大城市生活的，有属于自己的自尊的小姑娘。
 秘密花园 # 她在我设定的故事中是一个寿命很长并且拥有一座自己的花园的书店老板。我的故事一般在她的书店里发生。
 面包 # 他是我的象征。一般只会在我精神压力比较大时才会在我的故事里出现。是一个疲于各类社交和工作的可怜小男孩。脖子上的蛇会时刻提醒他还有很多工作没有完成，还不能休息。
+          
+        
+        </description>
+    </item>
+    
+    <item>
+      <title>一些音乐分享</title>
+      <link>/about/</link>
+      <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+           星茶会 # 晚星 # 所念皆星河 # 
           
         
         </description>
